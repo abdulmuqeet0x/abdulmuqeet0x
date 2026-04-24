@@ -1,11 +1,19 @@
-👋 Hi, I’m Abdul Muqeet (@abdulmuqeet0x)
+# Hi, I'm Abdul Muqeet 👋
 
-💻 Tech explorer & creator | Passionate about Artificial Intelligence, Automation, and Agentic AI  
-🐍 Python developer advancing in Agentic & Robotics AI  
-🎓 DIT graduate & Computer Science student focused on building real-world solutions  
-🚀 Designing intelligent systems that merge creativity with technology  
-🤝 Open to collaborations in AI, automation, and emerging tech  
+Computer Science student at QUEST Nawabshah, passionate about 
+Python, AI, and automation.
 
-📫 Connect with me: [https://www.linkedin.com/in/abdul-muqeet-607638295/)
+I started with web technologies (HTML, CSS, JS), moved to Python, 
+and now I'm learning Agentic AI at PIAIC — figuring out how 
+intelligent systems actually work.
 
----
+🏆 1st Place — CS Project Exhibition @ QUEST (Digital Banking System in C)
+
+### 🛠️ What I Work With
+Python | Java | C | HTML & CSS | Automation
+
+### 🌱 Currently Learning
+Agentic AI · n8n Workflows · OOP in Java
+
+### 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/abdul-muqeet-607638295)
